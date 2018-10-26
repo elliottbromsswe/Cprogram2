@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: exempel3.2, Configuration: Debug Win32 ------
+1>exempel3.2.cpp
+1>exempel3.2.vcxproj -> C:\Users\Elliott Bröms\Desktop\c++\cprogram\exempel3.2\Debug\exempel3.2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
