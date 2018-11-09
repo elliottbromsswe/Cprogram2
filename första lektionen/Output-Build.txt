@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: första lektionen, Configuration: Debug Win32 ------
+1>första lektionen.cpp
+1>första lektionen.vcxproj -> C:\Users\Elliott Bröms\source\repos\första lektionen\Debug\första lektionen.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
