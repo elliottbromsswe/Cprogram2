@@ -1,0 +1,6 @@
+﻿  loldödamig.cpp
+c:\users\elliott bröms\desktop\c++\cprogram\lol döda mig\lol döda mig\loldödamig.cpp(16): error C2065: 'cout': undeclared identifier
+c:\users\elliott bröms\desktop\c++\cprogram\lol döda mig\lol döda mig\loldödamig.cpp(17): error C2065: 'cin': undeclared identifier
+c:\users\elliott bröms\desktop\c++\cprogram\lol döda mig\lol döda mig\loldödamig.cpp(19): error C2065: 'cout': undeclared identifier
+c:\users\elliott bröms\desktop\c++\cprogram\lol döda mig\lol döda mig\loldödamig.cpp(20): error C2065: 'cin': undeclared identifier
+c:\users\elliott bröms\desktop\c++\cprogram\lol döda mig\lol döda mig\loldödamig.cpp(22): error C2065: 'cout': undeclared identifier

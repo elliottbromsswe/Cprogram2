@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  solo2.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\yvals.h(677): warning C4384: #pragma 'detect_mismatch' should only be used at global scope
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\yvals.h(681): warning C4384: #pragma 'detect_mismatch' should only be used at global scope
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\yvals.h(692): warning C4384: #pragma 'detect_mismatch' should only be used at global scope
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\yvals.h(964): error C2870: 'std': a namespace definition must appear either at file scope or immediately within another namespace definition
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\limits.h(13): error C2598: linkage specification must be at global scope
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_malloc.h(13): error C2598: linkage specification must be at global scope
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stddef.h(13): error C2598: linkage specification must be at global scope
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stddef.h(19): error C2870: 'std': a namespace definition must appear either at file scope or immediately within another namespace definition
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_search.h(16): error C2598: linkage specification must be at global scope
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(17): error C2598: linkage specification must be at global scope
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(357): error C2598: linkage specification must be at global scope
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(359): error C2601: 'abs': local function definitions are illegal
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(357): note: this line contains a '{' which has not yet been matched
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(364): error C2601: 'abs': local function definitions are illegal
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(357): note: this line contains a '{' which has not yet been matched
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(369): error C2601: 'div': local function definitions are illegal
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(357): note: this line contains a '{' which has not yet been matched
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(374): error C2601: 'div': local function definitions are illegal
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(357): note: this line contains a '{' which has not yet been matched
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(634): error C2598: linkage specification must be at global scope
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(634): error C2951: template declarations are only permitted at global, namespace, or class scope
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(634): fatal error C1903: unable to recover from previous error(s); stopping compilation
