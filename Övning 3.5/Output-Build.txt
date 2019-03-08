@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: exp 3.4, Configuration: Debug Win32 ------
+1>stdafx.cpp
+1>exp 3.4.cpp
+1>exp 3.4.vcxproj -> C:\Users\Elliott Bröms\source\repos\exp 3.4\Debug\exp 3.4.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

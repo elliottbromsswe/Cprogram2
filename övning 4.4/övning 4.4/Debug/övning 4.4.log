@@ -1,0 +1,5 @@
+﻿  övning 4.4.cpp
+c:\users\elliott bröms\desktop\c++\cprogram\övning 4.4\övning 4.4\övning 4.4.cpp(18): error C2374: 'tal2': redefinition; multiple initialization
+  c:\users\elliott bröms\desktop\c++\cprogram\övning 4.4\övning 4.4\övning 4.4.cpp(17): note: see declaration of 'tal2'
+c:\users\elliott bröms\desktop\c++\cprogram\övning 4.4\övning 4.4\övning 4.4.cpp(19): error C2059: syntax error: '--'
+c:\users\elliott bröms\desktop\c++\cprogram\övning 4.4\övning 4.4\övning 4.4.cpp(20): error C2088: '<<': illegal for class
